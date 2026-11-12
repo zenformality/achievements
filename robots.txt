@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prakit.is-a.dev/sitemap.xml
+Sitemap: https://achiiievments.vercel.app/sitemap.xml
